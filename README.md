@@ -1,6 +1,6 @@
 # Healthcare Readmission: SQL + Synthetic ML Data
 
-A small, runnable starter project for a healthcare readmission analysis. It
+An end-to-end SQL and Machine Learning pipeline designed to predict 30-day hospital readmissions. It
 contains a normalized SQLite schema and a Faker-based generator that creates
 longitudinal patient histories and derives a real 30-day readmission label from
 subsequent admissions.
